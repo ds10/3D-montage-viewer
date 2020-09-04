@@ -1,0 +1,11 @@
+var montageSrc = "Example3.jpg";
+var xImages = 4;
+var yImages = 8;
+var xImagePixels = 1334;
+var yImagePixels = 751;
+var startFrame = 0;
+var startZoom = 1;
+var startXOffset = 0;
+var startYOffset = 0;
+//var scale = 1; //uncomment this to disable auto fit
+var rotateSensitivity = 0.25;

@@ -1,0 +1,22 @@
+This file is not used by the viewer and may be deleted.
+You may wish to keep it because it is a useful record of the parameters used
+to generate the montage image from the video file.
+
+
+% Parameters
+firstFrame = 1;   % Frame number where 360 rotation should start
+lastFrame = 32;   % Frame number where 360 rotation should end
+montageWidth = 8;   % No of video frames in x direction of montage
+montageHeight = 4;   % No of video frames in y direction of montage
+cropLeft = 0.00;   % Crop from left as percentage of video width
+cropRight = 0.00;   % Crop from right as percentage of video width
+cropTop = 0.00;   % Crop from top as percentage of video height
+cropBottom = 0.00;   % Crop from bottom as percentage of video height
+scale = 0.3475;   % Scaling of crop area. Affects file size and image resolution
+
+% Extra parameters
+rotate = 1;   %  0 = no frame rotation,  1 = 90 anticlockwise,  2 = 180,  3 = 90 clockwise
+reverse = false;   % Reverse frame order (true/false). Changes direction of mouse rotation
+jpgQuality = 100;   % JPEG quality as percentage of maximum quality
+colourBalance = false;   % Perform colour balancing (true/false)
+colourBalanceGreyValue = [127 127 127];   % The RGB colour in original video which should appear grey in output montage

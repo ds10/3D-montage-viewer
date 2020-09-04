@@ -7,12 +7,12 @@ This document describes how to create an interactive html 360 degree view from a
 
 ## Setup
 
-•	Open Matlab and select the folder containing the VideoTo360montage.mlx file in the Current Folder panel on the left side.
-•	Open the VideoTo360montage.mlx file. You can do this by double clicking the file in the Current Folder panel. The Live Editor window will open and show the script.
-•	In the Paths and filenames section:
-o	Enter the path to the folder containing the video
-o	Enter the video file name and extension (separately)
-o	Enter the path to an output folder
+*	Open Matlab and select the folder containing the VideoTo360montage.mlx file in the Current Folder panel on the left side.
+*	Open the VideoTo360montage.mlx file. You can do this by double clicking the file in the Current Folder panel. The Live Editor window will open and show the script.
+*	In the Paths and filenames section:
+ * Enter the path to the folder containing the video
+ * Enter the video file name and extension (separately)
+ *	Enter the path to an output folder
 
 ## Enter parameters
 

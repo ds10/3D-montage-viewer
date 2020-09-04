@@ -25,7 +25,7 @@ This document describes how to create an interactive html 360 degree view from a
 *	If the 360 html view rotates the wrong way then you can fix this by setting reverse to true
 *	Set the jpg quality to a lower value if you need to reduce the file size. You may want to do this when…
 	* …increasing the number of frames to get a smoother rotation.
-	*…increasing the scale to get higher resolution
+	* …increasing the scale to get higher resolution
 *	Set colour balance to true if you need to change it and enter the RGB value of an area in the movie which should render as grey.
 
 ## Run the script

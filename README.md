@@ -1,5 +1,5 @@
 # 3D-montage-viewer
-3D montage viewer
+Contributors: Bob Reed
 
 ## Creating HTML 360 degree views of subjects from movies using Matlab
 

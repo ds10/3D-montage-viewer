@@ -36,4 +36,4 @@ This document describes how to create an interactive html 360 degree view from a
 
 # Python Version
 
-The python branch is considered experimental until is merged  into MASTER
+The python branch is considered experimental until it is merged into MASTER

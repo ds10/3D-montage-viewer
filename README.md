@@ -1,5 +1,5 @@
 # 3D-montage-viewer
-Contributors: Bob Reed
+Contributors: Bob Reed, David Sherlock
 
 ## Creating HTML 360 degree views of subjects from movies using Matlab
 
@@ -33,3 +33,7 @@ This document describes how to create an interactive html 360 degree view from a
 *	Click Run in Matlab and the HTML viewer files will be generated in a folder having the same name as the movie file. This folder will be in the output path you specified earlier.
 *	You should be able to preview the file in your browser by opening the html file.
 *	An extra .params.txt file is also generated. This file is not used by the viewer and may be deleted. You may wish to keep it because it is a useful record of the parameters used to generate the montage image from the video file.
+
+# Python Version
+
+The python branch is considered experimental until is merged  into MASTER

@@ -1,0 +1,11 @@
+var montageSrc = "video.jpg";
+var xImages = 8;
+var yImages = 4;
+var xImagePixels = 1080;
+var yImagePixels = 1920;
+var startFrame = 0;
+var startZoom = 1;
+startXOffset = 0; 
+var startYOffset = 0;
+ //var scale = 1 //uncomment this to disable auto fit 
+var rotateSensitivity = 0.25;
